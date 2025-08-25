@@ -1,7 +1,7 @@
 # 🕵️ Dark Web CTI: Onion Service Index
 
-Part of the **DeepDark CTI** project – open-source Cyber Threat Intelligence on the dark web.
-This repository provides a comprehensive archive of onion-based dark web forums.
+Part of the **DeepDark CTI** project – open-source Cyber Threat Intelligence on the dark web.  
+This repository provides a structured archive of onion-based forums, chats, and hidden services.
 
 > 🧠 **Purpose**: For cybersecurity research, OSINT, journalism, and education only.
 
@@ -10,44 +10,51 @@ This repository provides a comprehensive archive of onion-based dark web forums.
 ## ⚠️ Disclaimer
 
 This list is shared strictly for **informational and academic purposes**.  
-Accessing dark web (.onion) content may be illegal or unsafe depending on your jurisdiction.  
-We **do not endorse or host** any illegal activity or content.
+Accessing dark web (.onion) content may be **illegal or unsafe** depending on your jurisdiction.  
 
-Please use responsibly and always through [Tor Browser](https://www.torproject.org/).
+We **do not endorse, promote, or facilitate** any illegal activity or content.  
+Always use responsibly and access via [Tor Browser](https://www.torproject.org/).
 
 ---
 
-## 📋 Onion Services Table
+## 📋 Onion Services List
 
-| Name | Status | Description |
-|------|--------|-------------|
-| [Best carding world](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion/) | 200 | Carding forum |
-| [Able onion G](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/chat/) | 200 | General chat portal |
-| [Able onion o2o](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/rchat/) | 200 | One-to-one chat |
-| [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) | Active | Reddit-style dark web forum |
-| [Red Hat CHAT](http://3bu5sy446zbvqugbomvulx4ev43s2tgqcilvsg5oqlvguuziutljzgad.onion/) | 200 | Secure chatroom |
-| [Abyss Chat](http://forwhoallvglhpsx6dhycfb4fu4a2lqkvxtwlivruw765qxofyns7wqd.onion/a/sp/index.php) | 200 | Anonymous discussion |
-| [Darkzone Forum](http://darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion/darkzone-forum) | 200 | Hacking & darknet forum |
-| [DreadNOT](http://5ibgsxi7vrwspvmidk5vpsm6y3m63frid23wyfco32lhkl2agksnp5id.onion) | 200 | Dread alternative |
-| [Pitch](http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion) | 200 | Encrypted messaging |
-| [Onion.Chat](http://47xbzlgqqwfledigpfevqmqlclr7wbxm4dnzvh4flt5bsndjq53wymad.onion) | 200 | Messaging platform |
-| [annon blogs](http://4dx.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion) | 200 | Blogging anonymously |
-| [Onion forums](http://onnii6niq53gv3rvjpi7z5axkasurk2x5w5lwliep4qyeb2azagxn4qd.onion/) | 200 | General forums |
-| [BlackHat Chat](http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/) | 200 | Hacker discussions |
-| [Armaconda](http://4kboq2bkchv3ilcpy2dk7il6le3opmdhcrhyfae7kbxfymt4fusm6iyd.onion/) | 200 | Cybersec topics |
-| [Hidden Answers 1](http://lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion/) | 200 | Q&A platform |
-| [Dark Forest](http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/login) | 200 | Hidden community |
-| [CryptBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/) | 200 | Crypto forum |
-| [Deep Web Q&A](http://b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion/) | 200 | Questions and answers |
-| [Query](http://ruc4i7xn5qu5uc7fu2sc34r6xl55xhgvxbcs56t4ayvbqo2fmp4pehqd.onion/) | 200 | Search engine style site |
-| [Join the streeam](http://iliurdpsynwcmtxmsjuz4jdx3f7gfotaeeni5x5lveqknoakne4edjyd.onion/) | 200 | Stream-related content |
-| [NZ darknet forum](http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/misc.php?action=rules) | 200 | Localized darknet board |
-| [Hack Tools Dark](http://ky6urnzorg43zp5sw2gb46csndhpzn6ttpectmeooalwn2zc5w44rbqd.onion/index.php) | 200 | Hacking resources |
-| [Area23](http://forwhoallvglhpsx6dhycfb4fu4a2lqkvxtwlivruw765qxofyns7wqd.onion/g3.php) | 200 | Related to Abyss chat |
-| [Darkweb Forums](http://forums56xf3ix34sooaio4x5n275h4i7ktliy4yphhxohuemjpqovrad.onion/) | 200 | Forum index |
-| [Reddit](https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) | Mirror | Onion mirror of Reddit |
+- **Best Carding World** – `http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion/` – **200** – Carding forum  
+- **Able Onion G** – `http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/chat/` – **200** – General chat portal  
+- **Able Onion o2o** – `http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/rchat/` – **200** – One-to-one chat  
+- **Dread** – `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/` – **Active** – Reddit-style dark web forum  
+- **Red Hat Chat** – `http://3bu5sy446zbvqugbomvulx4ev43s2tgqcilvsg5oqlvguuziutljzgad.onion/` – **200** – Secure chatroom  
+- **Abyss Chat** – `http://forwhoallvglhpsx6dhycfb4fu4a2lqkvxtwlivruw765qxofyns7wqd.onion/a/sp/index.php` – **200** – Anonymous discussion  
+- **Darkzone Forum** – `http://darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion/darkzone-forum` – **200** – Hacking & darknet forum  
+- **DreadNOT** – `http://5ibgsxi7vrwspvmidk5vpsm6y3m63frid23wyfco32lhkl2agksnp5id.onion` – **200** – Alternative to Dread  
+- **Pitch** – `http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion` – **200** – Encrypted messaging  
+- **Onion.Chat** – `http://47xbzlgqqwfledigpfevqmqlclr7wbxm4dnzvh4flt5bsndjq53wymad.onion` – **200** – Messaging platform  
+- **Annon Blogs** – `http://4dx.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion` – **200** – Anonymous blogging  
+- **Onion Forums** – `http://onnii6niq53gv3rvjpi7z5axkasurk2x5w5lwliep4qyeb2azagxn4qd.onion/` – **200** – General forums  
+- **BlackHat Chat** – `http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/` – **200** – Hacker discussions  
+- **Armaconda** – `http://4kboq2bkchv3ilcpy2dk7il6le3opmdhcrhyfae7kbxfymt4fusm6iyd.onion/` – **200** – Cybersecurity topics  
+- **Hidden Answers 1** – `http://lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion/` – **200** – Dark web Q&A site  
+- **Dark Forest** – `http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/login` – **200** – Hidden community  
+- **CryptBB** – `http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/` – **200** – Crypto forum  
+- **Deep Web Q&A** – `http://b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion/` – **200** – Questions & answers  
+- **Query** – `http://ruc4i7xn5qu5uc7fu2sc34r6xl55xhgvxbcs56t4ayvbqo2fmp4pehqd.onion/` – **200** – Search-engine style Q&A  
+- **Join the Stream** – `http://iliurdpsynwcmtxmsjuz4jdx3f7gfotaeeni5x5lveqknoakne4edjyd.onion/` – **200** – Stream-related forum  
+- **NZ Darknet Forum** – `http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/misc.php?action=rules` – **200** – New Zealand darknet board  
+- **Hack Tools Dark** – `http://ky6urnzorg43zp5sw2gb46csndhpzn6ttpectmeooalwn2zc5w44rbqd.onion/index.php` – **200** – Hacking resources  
+- **Area23** – `http://forwhoallvglhpsx6dhycfb4fu4a2lqkvxtwlivruw765qxofyns7wqd.onion/g3.php` – **200** – Linked to Abyss Chat  
+- **Darkweb Forums** – `http://forums56xf3ix34sooaio4x5n275h4i7ktliy4yphhxohuemjpqovrad.onion/` – **200** – Forum index  
+- **Reddit (Mirror)** – `https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/` – **200** – Onion mirror of Reddit  
 
 ---
 
 ## 📦 About the Contributor
-Maintained and curated by [@ulethon](https://github.com/ulethon)
+Maintained and curated by [@ulethon](https://github.com/ulethon)  
+
+---
+
+## 🛡️ Usage Guidelines
+
+- Use only for **research, intelligence, and educational** purposes.  
+- Always connect through **Tor Browser**.  
+- Never share or use these links for illegal activity.  
+- Verify status codes independently – services change frequently.  
